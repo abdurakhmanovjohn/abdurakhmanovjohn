@@ -21,6 +21,6 @@ I've built projects using **Django, DjangoRestFramework, and FastAPI. I enjoy ta
 
 
 ## 📫 Get in Touch  
-📌 **GitHub:** [ZoirJohn](https://github.com/abdurakhmanovjohn)
+📌 **GitHub:** [abdurakhmanovjohn](https://github.com/abdurakhmanovjohn)
 📌 **Telegram:** [@cosmicskeptic](https://t.me/cosmicskeptic)
 📌 **Email:** [chartakiy@gmail.com](mailto:chartakiy@gmail.com)  
