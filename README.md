@@ -2,7 +2,7 @@
 
 🚀 **Backend Developer | Django, DRF & FastAPI Enthusiast**  
 
-I've built projects using **Django, DjangoRestFramework, and FastAPI. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
+I've built projects using **Django, DjangoRestFramework, and FastAPI**. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
 
 ## 🛠 Tech Stack  
 
