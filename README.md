@@ -1,4 +1,4 @@
-# Hi there, I'm Jonibek! 🚀  
+# Hi there, I'm Jonibek!
 
 🚀 **Backend Developer | Django, DRF & FastAPI Enthusiast**  
 
